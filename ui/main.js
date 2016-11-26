@@ -6,4 +6,4 @@ $(document).ready(function() {
 	$("ul#nav li:nth-child(4)").css("margin-right", "60px");
     $("ul#nav li:nth-child(5)").css("margin-right", "0px");
 });
-Contact GitHub API Training Shop Blog About
+
