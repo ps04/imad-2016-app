@@ -35,9 +35,7 @@ ul#nav {
 		ul#nav li:nth-child(4) {
 			margin: 0 60px 0 0;
 		}
-ul#nav li:nth-child(4) {
-			margin: 0 0 0 60px;
-		}
+
 
 		ul#nav li a {
 			color: #616369; text-decoration: none;
